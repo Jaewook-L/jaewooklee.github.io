@@ -27,7 +27,7 @@ Accelerating the discovery of optimal electrolyte compositions and battery forma
 Department of Chemical and Biological Engineering, Seoul National University  
 Advisor: Prof. Jang Wook Choi
 
-## Previous Research
+## Previous Research Experience
 
 **Ph.D. Researcher** (Mar 2020 – Feb 2025)  
 Department of Chemical and Biomolecular Engineering, KAIST  

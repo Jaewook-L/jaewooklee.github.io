@@ -47,7 +47,7 @@ I leverage Bayesian optimization and inverse engineering to efficiently navigate
 <ul>
   <li>High-entropy Electrolytes towards Advanced Aqueous Zinc-ion Batteries — <em>Journal of Materials Chemistry A</em> (2025)</li>
   <li>Accelerated Discovery of Optimal Electrolyte Formulations for Fast-Chargeable Lithium-Ion Batteries — <em>In Preparation</em></li>
-  <li>Robotic-XAI Collaboration for the Discovery of Scalable Electrolytes in Lithium Metal Batteries — <em>In Preparation</li>
+  <li>Robotic-XAI Collaboration for the Discovery of Scalable Electrolytes in Lithium Metal Batteries — <em>In Preparation</em></li>
   <li>Bayesian Optimization-guided Tri-solvent Electrolyte Design for Aqueous Zinc-ion Batteries — <em>In Preparation</em></li>
 </ul>
 </div>

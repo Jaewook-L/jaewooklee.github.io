@@ -5,33 +5,61 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on developing AI-driven frameworks for battery diagnostics and prognostics, combining physics-based electrochemical models with machine learning to enable reliable, real-world battery management.
+My research focuses on developing AI-driven frameworks for battery diagnostics and prognostics, combining physics-based electrochemical models with machine learning to enable reliable battery management under real-world charge/discharge conditions.
 
 ## Research Interests
 
 **Hybrid Physics-informed and Data-driven Modeling**  
-Developing models that integrate electrochemical first-principles with deep learning for accurate Li-ion battery State-of-Health (SOH) degradation prediction.
+This research aims to overcome the limitations of conventional black-box models by integrating electrochemical first principles with deep learning architectures. By embedding physical constraints into neural networks, I develop frameworks that ensure thermodynamic consistency and improve generalization even with limited experimental data. My work particularly emphasizes capturing both intra-cycle voltage–current dynamics and inter-cycle long-term degradation trends to precisely monitor capacity fade and resistance growth.
+
+<div class="related-publications">
+<strong>Related Publications</strong>
+<ul>
+  <li>Simultaneous Extraction of Intra- and Inter-Cycle Features for Predicting Lithium-Ion Battery's Knees Using Convolutional and Recurrent Neural Networks — <em>Applied Energy</em> (2024)</li>
+  <li>Extracting Key Temporal and Cyclic Features from VIT Data to Predict Lithium-Ion Battery Knee Points Using Attention Mechanisms — <em>Computers & Chemical Engineering</em> (2025)</li>
+  <li>Physics-Informed Lithium-Ion Battery End-of-Life Prediction Model with No Cycling Cost — <em>Under Review</em></li>
+  <li>Learning First-principles Knowledge from Data — <em>Artificial Intelligence in Manufacturing</em> (2024)</li>
+</ul>
+</div>
+
+---
 
 **Real-time Lifetime Diagnosis and Prognosis**  
-Enabling real-time battery health estimation using field-accessible electrochemical indices without expensive lab equipment.
+The goal of this research is to enable accurate and immediate battery health assessment in field environments without relying on costly laboratory equipment. I develop lightweight algorithms that utilize field-accessible electrochemical indices and operational data to diagnose degradation modes in real time. This includes quantifying surface degradation and identifying dominant failure mechanisms under dynamic electric vehicle (EV) profiles, ensuring the safety and reliability of large-scale energy storage systems.
+
+<div class="related-publications">
+<strong>Related Publications</strong>
+<ul>
+  <li>Diagnosing Rapidly Degrading Lithium Ion Battery Cells Using Direct Current Internal Resistance — <em>Chemical Engineering Journal</em> (2025)</li>
+  <li>Electric Vehicle Pattern-based Battery Cycling Dataset and Its Application in Predicting Rapid Degradation — <em>Journal of Energy Storage</em> (2025)</li>
+  <li>Rapid and Non-destructive Diagnosis of Lithium-ion Batteries via Quantification of Spatial Distribution of Surface Degradation — <em>Joule</em> (2025, Accepted)</li>
+  <li>Non-invasive Degradation Diagnosis Framework for Lithium-Ion Batteries via Capacity and Power Fade Prediction — <em>In Revision</em></li>
+  <li>Deciphering Dominant Degradation Modes of Lithium-ion Batteries under Real-World Dynamic Profiles via Explainable Machine Learning — <em>In Preparation</em></li>
+</ul>
+</div>
+
+---
+
+**Bayesian Optimization for Battery Design**  
+I utilize Bayesian optimization and inverse engineering to efficiently navigate the vast design space of electrolyte compositions and battery formation protocols. By integrating Gaussian process regression with experimental workflows, this research identifies optimal multi-solvent formulations and elucidates high-entropy effects that enhance rate capability and cycle life. This data-driven strategy minimizes trial-and-error, enabling the rapid discovery of high-performance battery components.
+
+<div class="related-publications">
+<strong>Related Publications</strong>
+<ul>
+  <li>High-entropy Electrolytes towards Advanced Aqueous Zinc-ion Batteries — <em>Journal of Materials Chemistry A</em> (2025)</li>
+  <li>Bayesian Optimization-guided Tri-solvent Electrolyte Design for Aqueous Zinc-ion Batteries — <em>In Preparation</em></li>
+  <li>Accelerated Discovery of Optimal Electrolyte Formulations for Silicon Anodes: Unveiling High-Entropy Effects via Inverse Engineering — <em>In Preparation</em></li>
+</ul>
+</div>
+
+---
 
 **Transfer Learning for Next-generation Batteries**  
-Building transfer learning frameworks to predict degradation patterns across diverse battery chemistries (Li-ion, Zn-ion, Si-anode, etc.).
+This research leverages knowledge gained from well-characterized lithium-ion systems to accelerate the development of next-generation batteries, including silicon-anode and aqueous zinc-ion systems. By employing transfer learning frameworks, I aim to predict degradation patterns across diverse chemistries with minimal new data, significantly reducing the time and cost required for material validation. This approach facilitates a universal diagnostic platform adaptable to various electrode materials and electrolyte environments.
 
-**Bayesian Optimization**  
-Accelerating the discovery of optimal electrolyte compositions and battery formation protocols using Bayesian optimization.
-
-## Current Position
-
-**Postdoctoral Researcher** (Mar 2025 – Present)  
-Department of Chemical and Biological Engineering, Seoul National University  
-Advisor: Prof. Jang Wook Choi
-
-## Previous Research Experience
-
-**Ph.D. Researcher** (Mar 2020 – Feb 2025)  
-Department of Chemical and Biomolecular Engineering, KAIST  
-Advisors: Prof. Seongmin Heo and Prof. Jay H. Lee
-
-- Hybrid life prediction model using intra- and inter-cycle electrochemical data (Sep 2023 – Aug 2024)
-- AI and Big-data application to improve fuel efficiency of LNG carrier tanks (Mar 2020 – Aug 2021)
+<div class="related-publications">
+<strong>Related Publications</strong>
+<ul>
+  <li>A Transfer Learning Framework for Enabling Accurate State-of-Health Prediction across Diverse Battery Chemistries — <em>In Preparation</em></li>
+</ul>
+</div>

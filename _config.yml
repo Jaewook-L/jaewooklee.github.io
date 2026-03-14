@@ -20,7 +20,7 @@ repository               : "Jaewook-L/Jaewook-L.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "이재욱_증명사진.jpg"  # /images/ 폴더에 프로필 사진을 업로드하고 파일명을 맞춰주세요
+  avatar           : "JWL_picture.jpg"  # /images/ 폴더에 프로필 사진을 업로드하고 파일명을 맞춰주세요
   name             : "Jaewook Lee"
   pronouns         :
   bio              : "Postdoctoral Researcher at Seoul National University. Working on AI-driven battery diagnostics, SOH prediction, and Bayesian optimization."

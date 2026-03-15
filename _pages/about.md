@@ -20,7 +20,7 @@ My research focuses on developing AI-driven frameworks for battery diagnostics a
 
 ## Research Experience
 
-Postdoc in Chemical and Biomolecular Engineering and Institute of Chemical Processes
+Postdoc in Chemical and Biomolecular Engineering and Institute of Chemical Processes  
 Seoul National University, Seoul (Mar 2025 – present)  
 Advisor: Prof. Jang Wook Choi
 

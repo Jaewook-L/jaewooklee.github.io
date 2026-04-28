@@ -32,7 +32,7 @@ The goal of this research is to enable accurate and immediate battery health ass
 <ul>
   <li>Diagnosing Rapidly Degrading Lithium Ion Battery Cells Using Direct Current Internal Resistance — <em>Chemical Engineering Journal</em> (2025)</li>
   <li>Electric Vehicle Pattern-based Battery Cycling Dataset and Its Application in Predicting Rapid Degradation — <em>Journal of Energy Storage</em> (2025)</li>
-  <li>Non-invasive Degradation Diagnosis Framework for Lithium-Ion Batteries via Capacity and Power Fade Prediction — <em>In Revision</em></li>
+  <li>Interpretable Noninvasive Framework for Lithium-Ion Battery Degradation Diagnosis: Joint Prediction of Capacity and Power Fade and Mechanism-Aware Health Index Classification — <em>In Revision</em></li>
   <li>Deciphering Dominant Degradation Modes of Lithium-ion Batteries under Real-World Dynamic Profiles via Explainable Machine Learning — <em>In Preparation</em></li>
 </ul>
 </div>
@@ -48,7 +48,7 @@ I leverage Bayesian optimization and inverse engineering to efficiently navigate
   <li>High-entropy Electrolytes towards Advanced Aqueous Zinc-ion Batteries — <em>Journal of Materials Chemistry A</em> (2025)</li>
   <li>Accelerated Discovery of Optimal Electrolyte Formulations for Fast-Chargeable Lithium-Ion Batteries — <em>In Preparation</em></li>
   <li>Robotic-XAI Collaboration for the Discovery of Scalable Electrolytes in Lithium Metal Batteries — <em>In Preparation</em></li>
-  <li>Extended active learning-guided design of multi-component electrolytes with opposing co-solvent properties — <em>In Preparation</em></li>
+  <li>Extended active learning-guided design of multi-component electrolytes with opposing co-solvent properties — <em>Submitted, https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002453/v1</em></li>
 </ul>
 </div>
 

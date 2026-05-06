@@ -32,7 +32,7 @@ The goal of this research is to enable accurate and immediate battery health ass
 <ul>
   <li>Diagnosing Rapidly Degrading Lithium Ion Battery Cells Using Direct Current Internal Resistance — <em>Chemical Engineering Journal</em> (2025)</li>
   <li>Electric Vehicle Pattern-based Battery Cycling Dataset and Its Application in Predicting Rapid Degradation — <em>Journal of Energy Storage</em> (2025)</li>
-  <li>Interpretable Noninvasive Framework for Lithium-Ion Battery Degradation Diagnosis: Joint Prediction of Capacity and Power Fade and Mechanism-Aware Health Index Classification — <em>In Revision</em></li>
+  <li>Interpretable Noninvasive Framework for Lithium-Ion Battery Degradation Diagnosis: Joint Prediction of Capacity and Power Fade and Mechanism-Aware Health Index Classification — <em>Applied Energy (2026)</em></li>
   <li>Deciphering Dominant Degradation Modes of Lithium-ion Batteries under Real-World Dynamic Profiles via Explainable Machine Learning — <em>In Preparation</em></li>
 </ul>
 </div>

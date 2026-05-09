@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/TL-LIB-LMB
 date: 2026-01-10
 venue: "In Preparation"
-citation: "Jaewook Lee†, Sangho Kim†, Gaeun Park, Inwoo Kim, and Jang Wook Choi, In Preparation."
+citation: "Jaewook Lee†, Sangho Kim†, Gaeun Park†, Inwoo Kim, Minkwan Kim, and Jang Wook Choi, In Preparation."
 ---

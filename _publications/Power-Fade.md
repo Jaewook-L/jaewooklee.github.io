@@ -3,7 +3,7 @@ title: "Interpretable Noninvasive Framework for Lithium-Ion Battery Degradation 
 collection: publications
 category: manuscripts
 permalink: /publication/Power-Fade
-date: 2026-01-06
+date: 2026-08-15
 venue: "Applied Energy"
 volume: 417
 pages: 128036

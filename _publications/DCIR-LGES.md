@@ -2,8 +2,8 @@
 title: "Diagnosing Rapidly Degrading Lithium Ion Battery Cells Using Direct Current Internal Resistance"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-J4
-date: 2025-01-03
+permalink: /publication/DCIR-LGES
+date: 2025-08-15
 venue: "Chemical Engineering Journal"
 volume: 518
 pages: 164207
